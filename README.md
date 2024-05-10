@@ -12,6 +12,39 @@ This project is a dynamic slot machine game built using JavaScript. It allows us
 - **Winning and Losing**: If a player wins, their balance is updated with the amount won. If they lose, their balance is deducted by the amount bet.
 - **Interactive Gameplay**: Players can choose to spin the machine again or exit the game based on their preferences.
 
+___
+
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running, follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+
+- [npm](https://www.npmjs.com/)
+
+  ```sh
+  npm install npm@latest -g
+
+---
+## Installation
+1. clone the repo
+```sh
+git clone https://github.com/Saleh-enab/Slot-Machine-Game-using-JS/tree/main
+```
+2. install npm packages
+```sh
+npm install
+```
+
+
+## How to start the game
+```sh
+node .\main.js
+```
+
+---
 ## How to Play
 
 1. **Set Initial Balance**: Start the game by setting your initial balance. This determines the amount of money you have to place bets.
